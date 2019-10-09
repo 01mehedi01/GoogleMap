@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "275641449247",
+    "firebase_url": "https://direction-21fb1.firebaseio.com",
+    "project_id": "direction-21fb1",
+    "storage_bucket": "direction-21fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275641449247:android:e768a4f5fc3030ce",
+        "android_client_info": {
+          "package_name": "com.example.user.directionpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275641449247-1a7a3qla835qgie77qi4iiv4qc98otdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnkqUgPFPxhtMZg5KucDAdIZ4-3q4rz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
